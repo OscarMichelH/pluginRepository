@@ -757,7 +757,7 @@
         "version": "0.2.0",
         "date": "2023-11-17T21:48:56.299478Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0",
-        "sha512sum": "78856aa98a365cbc118e9a4ae11cdcdc97d9b700974413ef1d04152b1fd0704608be90e186e8ec4d992970d30125d827287dba8dbbea74415a070bd92a770668",
+        "sha512sum": "b02781b86bf66dda44703b9747155ceb7625e3014fa1d37dde79d246bb4845233a6ad93836b020637e16f0e5d56318f8707fa79859f41b8a772802f38d86c47f",
         "state": "",
         "url": "https://github.com/OscarMichelH/pluginRepository/releases/download/0.2.0/cache-aws-agents-on-event-v0.2.0.zip"
       },
